@@ -1,0 +1,19 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+
+.header-image {
+    background-image: url('https://img.freepik.com/free-photo/mount-mont-blanc-covered-snow-reflecting-water-evening-chamonix-france_181624-33408.jpg?t=st=1727621272~exp=1727624872~hmac=c0b3ce9b25ef6da0fe1ac04ab97c11af35264609c5a1328ee55f9f8deb766b34&w=1380');
+    background-size: cover; /* Make the image cover the entire header */
+    background-position: center; /* Center the image */
+    color: white; /* Change text color for contrast */
+}
+
+
+.container{
+    padding: 10px;
+}
+
